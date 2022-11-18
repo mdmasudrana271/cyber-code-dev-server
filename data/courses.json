@@ -1,0 +1,63 @@
+[
+  {
+    "id": "01",
+    "rating": "4.5",
+    "price": "$24",
+    "instructor": "Jhankar Mahbub",
+    "enroll": "5000",
+    "title": "Learn Python Programming",
+    "image": "https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-121207.jpg?w=740&t=st=1666805501~exp=1666806101~hmac=24c87b35901f1c9c91c69cfc3885e29f0b66f6c1e2dad66610cea8b571ff33d9",
+    "description": "Learn the building blocks of programming so you can easily learn any computer programming language! Those approaches remind me of a guitar teacher I had years ago. He had two instructional methods - neither of which worked for me. He would either teach me to play one specific song, then I could play that song - but nothing else. Or he would play something complicated while I sat, watching him. I was supposed to pick up his guitar-playing skills by osmosis I guess, but that didn't happen. I've taught computer programming for many years and have found the most effective approach is to teach the tools one by one, giving exercises or assignments that allow students to practice each new concept until mastered. As the student learns, he or she gradually builds larger, more complex programs. While this may not be the most glamorous technique - it works! Students gain confidence as they truly understand how to use the programming tools."
+  },
+ 
+  {
+    "id": "02",
+    "rating": "4.7",
+    "price": "$16",
+    "instructor": "Jhankar Mahbub",
+    "enroll": "4900",
+    "title": "Graphic Design Bootcamp",
+    "image": "https://img.freepik.com/free-vector/cartoon-graphic-design-landing-page_52683-70881.jpg?w=740&t=st=1666805431~exp=1666806031~hmac=77f46c8455a15ea1841b915f709d3335d2600161303f16bb872bcc1eb977374c",
+    "description": "Bestselling Beginner Course! Use Photoshop, Illustrator, & InDesign for logo design, web design, poster design, You’re in the right place! This course is for anyone who is interested in becoming a graphic designer, and especially geared towards beginners. When you enroll in this course, you will have access to over 15 hours of on-demand content, as well as the opportunity to join a private Facebook group with over 13,000 members. I move quickly through the content, since many students enjoy a quick learning pace. Prefer a more laid-back pace? Many students find that re-watching lectures or pausing the lectures during key learning points is a helpful way to digest the information."
+  },
+  {
+    "id": "03",
+    "rating": "4.9",
+    "price": "$30",
+    "instructor": "Jhankar Mahbub",
+    "enroll": "3000",
+    "title": "Android Developer Course",
+    "image": "https://img.freepik.com/free-vector/app-development-landing-page-template_52683-47668.jpg?w=740&t=st=1666805388~exp=1666805988~hmac=1b36961b0345a129d98a5c263bce604c65096325d5d92a5ef714e8e5c9ddabeb",
+    "description": "Launch your career as an Android app developer. Build job-ready skills for an in-demand career and earn a credential from Meta. No degree or prior experience required to get started Have you ever wanted to build your own mobile app? This Professional Certificate will teach you the top Android programming languages and frameworks. By the end, you’ll create your own Android application. Once you complete the program, you’ll get access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search."
+  },
+  {
+    "id": "04",
+    "rating": "4.8",
+    "price": "$65",
+    "instructor": "Jhankar Mahbub",
+    "enroll": "4300",
+    "title": "Complete WordPress Design",
+    "image": "https://img.freepik.com/free-photo/web-design-concept-with-drawings_1134-77.jpg?w=740&t=st=1666805329~exp=1666805929~hmac=da6027019c8ef8025b5f04d0de78334ad939a4fa68f415dfb1393592ececd363",
+    "description": "Hello! Welcome to the WordPress development course. This is the most comprehensive and effective course on WordPress development around. This is the only course you'll ever need to learn WordPress development Learn how to develop WordPress themes and plugins. Includes React and Gutenberg development. WordPress currently holds a majority of the market share on the web. WordPress is an absolute dominant force and its popularity continuously grows. One of the best things about WordPress is that it's easily extendable. There are thousands of plugins and themes available both free and premium In this course, I will teach you how to create your very own plugins and themes. This course was designed for those who truly want to master WordPress inside and out. There is no stone left unturned. This course will help make you into one of the most competitive WordPress developers out there. You will be able to develop custom plugins and themes no matter how hard the task is."
+  },
+  {
+    "id": "05",
+    "rating": "4.4",
+    "price": "$32",
+    "instructor": "Jhankar Mahbub",
+    "enroll": "6100",
+    "title": "Full Stack Web Development",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=740&t=st=1666805285~exp=1666805885~hmac=bfd4699bd827a296162ecfc99851e85c2e365267bb61e0ebb89a9bc85bd405dd",
+    "description": "Full stack web development, mern, mern stack, mern full stack, mern stack project, react, mern project, full stack, graphql, full stack Project, full stack web development project JavaScript is the number one programming language for internet applications. During our course, you will be informed about the basics of JavaScript in detail and how to solve problems. Here's how a JavaScript code works, not just how it works. Because in today's JavaScript world, besides writing a code, you need to know how to debug this topic and be able to read every written JavaScript code. Full stack web development, mern stack, mern full stack, mern, web development, web application, react, web application development, full stack, mern stack project, web development project"
+  },
+  {
+    "id": "06",
+    "rating": "4.4",
+    "price": "$72",
+    "instructor": "Jhankar Mahbub",
+    "enroll": "4100",
+    "title": "Cyber Security Course",
+    "image": "https://img.freepik.com/free-vector/colored-hacker-code-realistic-composition-with-person-creates-codes-hacking-stealing-information-vector-illustration_1284-18005.jpg?w=996&t=st=1666805220~exp=1666805820~hmac=847081be6ee034d372edfc40dad4fedaf2888d9203b66aafb45d57026439298f",
+    "description": "Learn a practical skill-set in defeating all online threats, including - advanced hackers, trackers, malware, zero days, exploit kits, cybercriminals and more. Become a Cyber Security Specialist - Go from a beginner to advanced in this easy to follow expert course. This course covers the fundamental building blocks of your required skill set - You will understand the threat and vulnerability landscape through threat modeling and risk assessments. We explore the Darknet and mindset of the cyber criminal. Covering malware, exploit kits, phishing, zero-day vulnerabilities and much more."
+  }
+]
