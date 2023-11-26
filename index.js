@@ -55,6 +55,10 @@ app.get('/', (req,res)=>{
     res.send('Hello I am running')
 })
 
+app.get('/hello', (req,res)=>{
+    res.send('Hello I am running')
+})
+
 app.listen(port, ()=>{
     console.log('port running on port: ', port);
 })
